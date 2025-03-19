@@ -1,5 +1,5 @@
 from constants import MAJOR_COLORS, MINOR_COLORS
-from tests import test_number_to_pair, test_pair_to_number
+from tests_utils import test_number_to_pair, test_pair_to_number
 from color_formatter import format_color_coding
 
 if __name__ == '__main__':
